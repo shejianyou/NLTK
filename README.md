@@ -1,5 +1,10 @@
 # NLTK
-此repository专用于上传我的文本挖掘代码以及文本资源
+
+## data_preprocessing模块
+
+### 一、基于词级n-gram的词袋模型
+1.什么是n-gram
+
 
 
 
