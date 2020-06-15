@@ -1,4 +1,11 @@
 # NLTK
+```
+from data_loader import * 
+from data_preprocessing import *
+from data_minner import *
+from baidu_NLP import *
+```
+
 
 ## data_preprocessing模块
 
