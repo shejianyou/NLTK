@@ -4,6 +4,8 @@ from data_loader import *
 from data_preprocessing import *
 from data_minner import *
 from baidu_NLP import *
+from pre_data import *
+from lda import *
 ```
 
 ## 第1章 概念明确
@@ -30,9 +32,11 @@ from baidu_NLP import *
 一般通过文本数据结构化的前置化处理可以初步推断文本的主要含义和文本提供者的意图。
 ##### 3.2文本数据分析基本内容
 (1)文本数据获取和初步清洗
-如包含一些网页数据的无意义字符串
+如包含一些网页数据的无意义字符串  
+
 (2)自然语言处理
 如分词、词性标注、句法分析、去除停用词、同义词替换；
+
 (3)命名实体识别
 即利用词典或统计方法识别命名的文本特征，如:人名、地名、组织机构、特定的缩写等；
 (4)模式识别
