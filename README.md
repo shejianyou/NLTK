@@ -112,8 +112,9 @@ TF-IDF算法建立在以下假设之上：对某个文档最有代表性的词�
 [2018_Economist](https://download.csdn.net/download/weixin_45365262/12555559)  
 [铅笔道全部文章](https://download.csdn.net/download/weixin_45365262/12551962)  
 [CNN_China](https://download.csdn.net/download/weixin_45365262/12551875)  
-[A_Tale_of_Two_Cities-Charles_Dickens](https://download.csdn.net/download/weixin_45365262/12551903)  
-![](https://github.com/shejianyou/NLTK/blob/master/2456cf84865287300032863f615e8d3.jpg)
+[A_Tale_of_Two_Cities-Charles_Dickens](https://download.csdn.net/download/weixin_45365262/12551903) 
+[情感词典](https://github.com/shejianyou/NLTK/blob/master/2456cf84865287300032863f615e8d3.jpg)    
+
 
 
 
