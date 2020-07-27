@@ -104,7 +104,16 @@ TF-IDF算法建立在以下假设之上：对某个文档最有代表性的词�
 按照应用领域的不同，可以分为褒贬情感倾向分类、主观性内容识别和在线评论经济价值挖掘等几个方面；      
 按照文本类型的不同，可以分为产品评论的情感分析、新闻评论的情感分析等；      
 按照分析粒度的不同，可以分为篇章级、词语级、语句级三个不同粒度层次的情感分析。      
-从技术方法来看，有两类方向：一类是基于语义分析，另一类是基于机器学习。   
+从技术方法来看，有两类方向：一类是基于语义分析，另一类是基于机器学习。     
+
+### 三.Resource-Of-Wechat  
+[2016_Economist](https://download.csdn.net/download/weixin_45365262/12555559)    
+[2017_Economist](https://download.csdn.net/download/weixin_45365262/12554087)  
+[2018_Economist](https://download.csdn.net/download/weixin_45365262/12555559)  
+[铅笔道全部文章](https://download.csdn.net/download/weixin_45365262/12551962)  
+[CNN_China](https://download.csdn.net/download/weixin_45365262/12551875)  
+[A_Tale_of_Two_Cities-Charles_Dickens](https://download.csdn.net/download/weixin_45365262/12551903)  
+![](https://github.com/shejianyou/NLTK/blob/master/2456cf84865287300032863f615e8d3.jpg)
 
 
 
